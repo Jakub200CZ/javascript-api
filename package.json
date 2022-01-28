@@ -1,7 +1,7 @@
 {
   "name": "javascript-api",
   "version": "1.0.0",
-  "description": "asd\r as\r d\r asd\r ad\r a\r sd\r a\r d",
+  "description": "First API with @bubasekdev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Jakub200CZ/javascript-api/issues"
   },
-  "homepage": "https://github.com/Jakub200CZ/javascript-api#readme",
-  "dependencies": {
-    "express": "^4.17.2"
-  }
+  "homepage": "https://github.com/Jakub200CZ/javascript-api#readme"
 }
